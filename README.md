@@ -1,2 +1,2 @@
 # TripProject
-my first website ver 0.1
+my first website ever 0.1
